@@ -6,36 +6,36 @@
 .box-one {
   background-color:#cc9900;
   padding: 20;
-  border: 20 #997300;
+  border: 20 solid #997300;
   margin: 20;
 }
 .box-two {
     background-color:#ff3333;
   padding: 20;
-  border: 20 #cc0000;
+  border: 20 solid #cc0000;
   margin: 20;
 }
 .box-three {
     background-color:#99e600;
   padding: 20;
-  border: 20 #77b300;
+  border: 20 solid #77b300;
   margin: 20;
 }
 .box-four {
     background-color:#ffff00;
   padding: 20;
-  border: 20 #e6e600;
+  border: 20 solid #e6e600;
   margin: 20;
 }
 .box-five {
     background-color:#805500;
   padding: 20;
-  border: 20 #664400;
+  border: 20 solid #664400;
   margin: 20;
 }
 .box-six {
     background-color:#cc9900;
   padding: 20;
-  border: 20 #997300;
+  border: 20 solid #997300;
   margin: 20;
 }
