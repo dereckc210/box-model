@@ -10,32 +10,32 @@
   margin: 20;
 }
 .box-two {
-    background-color:red;
+    background-color:#ff3333;
   padding: 20;
-  border: 20 solid purple;
+  border: 20 #cc0000;
   margin: 20;
 }
 .box-three {
-    background-color:red;
+    background-color:#99e600;
   padding: 20;
-  border: 20 solid purple;
+  border: 20 #77b300;
   margin: 20;
 }
 .box-four {
-    background-color:red;
+    background-color:#ffff00;
   padding: 20;
-  border: 20 solid purple;
+  border: 20 #e6e600;
   margin: 20;
 }
 .box-five {
-    background-color:red;
+    background-color:#805500;
   padding: 20;
-  border: 20 solid purple;
+  border: 20 #664400;
   margin: 20;
 }
 .box-six {
-    background-color:red;
+    background-color:#cc9900;
   padding: 20;
-  border: 20 solid purple;
+  border: 20 #997300;
   margin: 20;
 }
